@@ -48,12 +48,13 @@ To use this project, follow these steps:
 2. Run the project with `npm start`.
 
 ## Usage
-    1. Click on "Dive In" to start generating color pair panels. You can use mouse scroll wheel to add more panels. 
+    1. Click on "Dive In" to start generating color pair panels. You can use mouse scroll wheel or left click and drag mouse to add more panels. 
     2. Click on "Surface Ip" to cycle through colors
-    3. Click on "Surface Up Remove" to remove already created panels. You may use scroll wheel to remove panels quickly.
+    3. Click on "Surface Up Remove" to remove already created panels. You may use  left mouse click in dragging motion to remove panels quickly.
     4. When "Some Gradient-Random (otherwise Random)" is checked panels are generated with colors matching nearer to the previously generated panel color. If it is unchecked random colors are generated for panels.
-    5. "Toggle Border" toggles borders in panels.
-
+    5. "Toggle Border" toggles borders in panels. 
+    6. When mouse is hovered over any of the panels the color values of background color and forecolor of corresponding panel in hexagonal are displayed.
+    
    **Limitations and Future Development**:
      - Limitations and future development will be addressed in time.
 
