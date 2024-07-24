@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FidgetColorsDev/static/css/main.c5968e3b.css",
+    "main.css": "/FidgetColorsDev/static/css/main.edc113fe.css",
     "main.js": "/FidgetColorsDev/static/js/main.5349f0d4.js",
     "index.html": "/FidgetColorsDev/index.html",
-    "main.c5968e3b.css.map": "/FidgetColorsDev/static/css/main.c5968e3b.css.map",
+    "main.edc113fe.css.map": "/FidgetColorsDev/static/css/main.edc113fe.css.map",
     "main.5349f0d4.js.map": "/FidgetColorsDev/static/js/main.5349f0d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5968e3b.css",
+    "static/css/main.edc113fe.css",
     "static/js/main.5349f0d4.js"
   ]
 }
