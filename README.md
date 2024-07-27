@@ -49,7 +49,7 @@ To use this project, follow these steps:
 
 ## Usage
     1. Click on "Dive In" to start generating color pair panels. You can use mouse scroll wheel or left click and drag mouse to add more panels. 
-    2. Click on "Surface Ip" to cycle through colors
+    2. Click on "Surface Up" to cycle through colors
     3. Click on "Surface Up Remove" to remove already created panels. You may use  left mouse click in dragging motion to remove panels quickly.
     4. When "Some Gradient-Random (otherwise Random)" is checked panels are generated with colors matching nearer to the previously generated panel color. If it is unchecked random colors are generated for panels.
     5. "Toggle Border" toggles borders in panels. 
